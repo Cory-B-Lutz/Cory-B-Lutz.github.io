@@ -1,12 +1,14 @@
-# Cory B. Lutz – Cybersecurity Portfolio  
+# Cory B. Lutz — Cybersecurity & Technical Support Portfolio
 
-Welcome to my cybersecurity portfolio. I recently completed an **accelerated Cybersecurity Analyst Diploma (18 months + 3-month practicum at Macklemore Solutions)**, gaining hands-on experience in SOC operations, threat analysis, vulnerability management, and incident response.  
+I’m a Tier 2 Technical Support Advisor and cybersecurity professional with CompTIA Security+ and CySA+, a Cybersecurity Analyst Diploma, and hands-on practicum experience in SOC operations, threat analysis, vulnerability assessment, packet analysis, incident response, and layered defense.
 
-Transitioning from a decade in sales and leadership, I now combine strong **technical training** with proven **communication, collaboration, and problem-solving skills**. I am certified in **CompTIA Security+**, **IBM Cybersecurity Analyst**, and the **Google Cybersecurity Certificate**, and continue to expand my knowledge through ongoing labs, projects, and certifications.  
+In my current role, I troubleshoot complex device, operating system, connectivity, account-access, cloud-service, and data-synchronization issues in a high-volume remote support environment. I combine structured troubleshooting, clear documentation, privacy and security procedures, and more than a decade of leadership and customer-facing experience.
+
+This portfolio highlights selected cybersecurity labs and practicum projects using Wireshark, OpenVAS, Kali Linux, Nmap, Shodan, PowerShell, Microsoft Sentinel, Windows Defender, Cisco Packet Tracer, and Linux iptables.
 
 ---
 
-## 🎓 Education  
+## Education  
 
 **Cybersecurity Analyst Diploma, CDI College (Accelerated, 18-Month Program + 3-Month Practicum)**  
 *2023–2025 | Calgary, AB*  
@@ -15,13 +17,13 @@ Transitioning from a decade in sales and leadership, I now combine strong **tech
 
 ---
 
-## 🎯 Career Goals  
+## Career Goals  
 
 My mission is to protect people and organizations from cyber threats through ongoing learning, practical experience, and collaboration. I am eager to join a team where I can contribute, grow, and help build safer digital environments for everyone.  
 
 ---
 
-## 🛠 Tools & Skills  
+## Tools & Skills  
 
 - **Tools & Platforms:** Wireshark, Kali Linux, OpenVAS, Nmap, Cisco Packet Tracer, PowerShell, iptables, VirtualBox  
 - **Frameworks & Standards:** MITRE ATT&CK, NIST CSF, ISO/IEC 27001  
@@ -30,7 +32,7 @@ My mission is to protect people and organizations from cyber threats through ong
 
 ---
 
-## 🚀 Featured Projects  
+## Featured Projects  
 
 Hands-on labs and practicum projects completed during my Cybersecurity Analyst Diploma and placement at Macklemore Solutions:  
 
@@ -51,19 +53,26 @@ Hands-on labs and practicum projects completed during my Cybersecurity Analyst D
 
 ---
 
-## 🏅 Certifications  
+## Certifications & Credentials
 
-- CompTIA Security+  
-- IBM Cybersecurity Analyst (Coursera/IBM Skills Network)  
-- Google Cybersecurity Certificate (Coursera)  
-- Microsoft Azure Fundamentals (AZ-900)  
-- Microsoft 365 Fundamentals (MS-900)  
-- Microsoft Azure Networking (AZ-700)  
-- ISC2, Student Member | CompTIA, Student Member  
+- CompTIA Security+
+- CompTIA Cybersecurity Analyst (CySA+)
+- Microsoft Applied Skills: Defend against cyberthreats with Microsoft Defender XDR
+- Google Cybersecurity Professional Certificate
+- IBM Cybersecurity Analyst Professional Certificate
+
+### Additional Microsoft Training
+
+- SC-900 Security, Compliance, and Identity Fundamentals - Coursework & Practice Assessment
+- AZ-900 Azure Fundamentals - Coursework & Practice Assessment
+- MS-900 Microsoft 365 Fundamentals - Coursework & Practice Assessment
+- AZ-700 Azure Networking - Coursework & Practice Assessment
+
+**Professional Memberships:** ISC2 Student Member | CompTIA Student Member
 
 ---
 
-## 📬 Contact  
+## Contact  
 
 **Email:** cory.b.lutz@gmail.com  
 **LinkedIn:** [linkedin.com/in/cory-bj-lutz](https://www.linkedin.com/in/cory-bj-lutz)  
